@@ -1,0 +1,893 @@
+[
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjI0LjAvMjMvMA:10.96.224.0/23/default",
+        "comment": "SAFRA - LAN - REDE - WiFi - CORP",
+        "network": "10.96.224.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMS4wLzI0LzA:10.96.1.0/24/default",
+        "comment": "MT - 1 Andar - Desktop - MT - 1 Andar - Desktop",
+        "network": "10.96.1.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMi4wLzI0LzA:10.96.2.0/24/default",
+        "comment": "MT - 2 Andar - Desktop - MT - 2 Andar - Desktop",
+        "network": "10.96.2.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMy4wLzI0LzA:10.96.3.0/24/default",
+        "comment": "MT - 3  Andar - Desktop - ***MT 3 ANDAR***",
+        "network": "10.96.3.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjQuMC8yMy8w:10.96.24.0/23/default",
+        "comment": "MT - WiFi MOBCENTRO - MT - WiFi MOBCENTRO",
+        "network": "10.96.24.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjYuMC8yMy8w:10.96.26.0/23/default",
+        "comment": "MT - TESTE VRF CORP - DESKTOP",
+        "network": "10.96.26.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNDYuMC8yMy8w:10.96.46.0/23/default",
+        "comment": "MT - 16 Andar Desktop Novo",
+        "network": "10.96.46.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNC4wLzI0LzA:10.96.4.0/24/default",
+        "comment": "MT - 4 Andar - Desktop - MT - 4 Andar - Desktop",
+        "network": "10.96.4.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNi4wLzI0LzA:10.96.6.0/24/default",
+        "comment": "MT - 6 Andar - Desktop - MT- 6 Andar - Desktop",
+        "network": "10.96.6.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNy4wLzI0LzA:10.96.7.0/24/default",
+        "comment": "MT - 7 Andar - Desktop - MT - 7 Andar - Desktop",
+        "network": "10.96.7.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuOC4wLzI0LzA:10.96.8.0/24/default",
+        "comment": "MT - 8 Andar - Desktop",
+        "network": "10.96.8.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuOS4wLzI0LzA:10.96.9.0/24/default",
+        "comment": "MT - 9 Andar Desktop - MT - 9 Andar Desktop",
+        "network": "10.96.9.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTAuMC8yNC8w:10.96.10.0/24/default",
+        "comment": "MT - 10 Andar - Desktop  - MT - 10 Andar - Desktop",
+        "network": "10.96.10.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTEuMC8yNC8w:10.96.11.0/24/default",
+        "comment": "MT - 11 Andar - Desktop - MT - 11 Andar - Desktop",
+        "network": "10.96.11.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTIuMC8yNC8w:10.96.12.0/24/default",
+        "comment": "MT - 12 Andar - Desktop - MT - 12 Andar - Desktop",
+        "network": "10.96.12.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQuMC8yNC8w:10.96.14.0/24/default",
+        "comment": "MT - 14 Andar - Dektop - Rede de Dados 14 Andar",
+        "network": "10.96.14.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTUuMC8yNC8w:10.96.15.0/24/default",
+        "comment": "MT - 15 Andar - Desktop - MT - 15 Andar - Desktop",
+        "network": "10.96.15.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTYuMC8yNC8w:10.96.16.0/24/default",
+        "comment": "MT - 16 Andar Desktop - MT - 16 Andar Desktop",
+        "network": "10.96.16.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTcuMC8yNC8w:10.96.17.0/24/default",
+        "comment": "MT - 17 Andar Desktop - MT - 17 Andar Desktop",
+        "network": "10.96.17.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTguMC8yNC8w:10.96.18.0/24/default",
+        "comment": "MT - 18 Andar - Desktop - MT - 18 Andar - Desktop",
+        "network": "10.96.18.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTkuMC8yNC8w:10.96.19.0/24/default",
+        "comment": "MT - 19 Andar - Desktop - Rede Dados 19 Andar",
+        "network": "10.96.19.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjAuMC8yNC8w:10.96.20.0/24/default",
+        "comment": "MT - 20 Andar - Desktop  - MT - 20 Andar - Desktop",
+        "network": "10.96.20.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjEuMC8yNC8w:10.96.21.0/24/default",
+        "comment": "MT - 21 Andar - Desktop - MT - 21 Andar - Desktop",
+        "network": "10.96.21.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjIuMC8yNC8w:10.96.22.0/24/default",
+        "comment": "MT - 22 Andar - Desktop - MT - 22 Andar - Desktop",
+        "network": "10.96.22.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMzEuMC8yNC8w:10.96.31.0/24/default",
+        "comment": "MT - 1 Andar Pergolado - Desktop - MT - 1 Andar Pergolado - Desktop",
+        "network": "10.96.31.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMzIuMC8yNC8w:10.96.32.0/24/default",
+        "comment": "MT - 2 Andar Pergolado - Dektop - MT - 2 Andar Pergolado - Dektop",
+        "network": "10.96.32.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMzQuMC8yNC8w:10.96.34.0/24/default",
+        "comment": "MT 4 Andar Pergolado - Desktop - MT 4 Andar Pergolado - Desktop",
+        "network": "10.96.34.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMzYuMC8yNC8w:10.96.36.0/24/default",
+        "comment": "MT- 6 Andar Pergolado - Desktop - MT- 6 Andar Pergolado - Desktop",
+        "network": "10.96.36.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMzcuMC8yNC8w:10.96.37.0/24/default",
+        "comment": "MT - 7 Pergolado - Desktop - MT - 7 Pergolado - Desktop",
+        "network": "10.96.37.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNDQuMC8yNC8w:10.96.44.0/24/default",
+        "comment": "MT - 4 ADM - Desktop",
+        "network": "10.96.44.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNzIuMC8yNC8w:10.96.72.0/24/default",
+        "comment": "J. Safra - 2 Andar - Desktop - J. Safra - 9 Andar - Desktop",
+        "network": "10.96.72.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNzMuMC8yNC8w:10.96.73.0/24/default",
+        "comment": "J. Safra - 3 Andar - Dektop - J. Safra - 3 Andar - Dektop",
+        "network": "10.96.73.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNzQuMC8yNC8w:10.96.74.0/24/default",
+        "comment": "J. Safra - 4 andar - Dektop - J. Safra - 4 andar - Dektop",
+        "network": "10.96.74.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTM2LjAvMjMvMA:10.96.136.0/23/default",
+        "comment": "BC - 5 Andar - Desktop - BC - 5 Andar - Desktop",
+        "network": "10.96.136.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTM4LjAvMjMvMA:10.96.138.0/23/default",
+        "comment": "BC - 15 Andar - Desktop - BC - 15 Andar - Desktop",
+        "network": "10.96.138.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTYwLjAvMjMvMA:10.96.160.0/23/default",
+        "comment": "BC - 3 Andar NOVO - Desktop  - BC - 3 Andar NOVO - Desktop",
+        "network": "10.96.160.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjAyLjAvMjMvMA:10.96.202.0/23/default",
+        "comment": "JS - 2 Andar - Bercario",
+        "network": "10.96.202.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMjYuMC8yMy8w:10.97.26.0/23/default",
+        "comment": "MT - Novo 6 Andar Pergolado - VOIP - MT - Novo 6 Andar Pergolado - VOIP",
+        "network": "10.97.26.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMzguMC8yMy8w:10.97.38.0/23/default",
+        "comment": "MT - 7 Andar Pergolado - VOIP",
+        "network": "10.97.38.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuOTIuMC8yMy8w:10.97.92.0/23/default",
+        "comment": "J.Safra 2 Andar - VOZ - J.Safra 2 Andar - VOZ",
+        "network": "10.97.92.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTM2LjAvMjMvMA:10.97.136.0/23/default",
+        "comment": "BC - 5 Andar - VoIP - BC - 5 Andar - VoIP",
+        "network": "10.97.136.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTM4LjAvMjMvMA:10.97.138.0/23/default",
+        "comment": "BC - 15 Andar - VoIP - BC - 15 Andar - VoIP",
+        "network": "10.97.138.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTYwLjAvMjMvMA:10.97.160.0/23/default",
+        "comment": "BC - 3 Andar NOVO - VoIP - BC - 3 Andar NOVO - VoIP",
+        "network": "10.97.160.0/23",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNzYuMC8yNC8w:10.96.76.0/24/default",
+        "comment": "J. Safra - 6 Andar - Desktop - Rede Desktop 6 Andar",
+        "network": "10.96.76.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNzcuMC8yNC8w:10.96.77.0/24/default",
+        "comment": "J. Safra - 7 Andar - Desktop",
+        "network": "10.96.77.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNzguMC8yNC8w:10.96.78.0/24/default",
+        "comment": "J. Safra - 8 Andar - Dektop - Rede de Dados 8 Andar J Safra",
+        "network": "10.96.78.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuNzkuMC8yNC8w:10.96.79.0/24/default",
+        "comment": "J. Safra - 9 Andar - Desktop - J. Safra - 9 Andar - Desktop",
+        "network": "10.96.79.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODAuMC8yNC8w:10.96.80.0/24/default",
+        "comment": "J.Safra -  10 Andar Desktop - J.Safra - 10 Andar Desktop",
+        "network": "10.96.80.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODEuMC8yNC8w:10.96.81.0/24/default",
+        "comment": "J. Safra - 11 Andar - Dektop - Rede de Dados 11 Andar J Safra",
+        "network": "10.96.81.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODIuMC8yNC8w:10.96.82.0/24/default",
+        "comment": "J. Safra - 12 Andar - Desktop - Rede de Dados 12 Andar",
+        "network": "10.96.82.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODQuMC8yNC8w:10.96.84.0/24/default",
+        "comment": "J. Safra - 14 Andar - Desktop - Rede Dados 14 Andar J Safra",
+        "network": "10.96.84.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODYuMC8yNC8w:10.96.86.0/24/default",
+        "comment": "J.Safra - 16 Andar - Desktop - J.Safra - 16 Andar - Desktop",
+        "network": "10.96.86.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODcuMC8yNC8w:10.96.87.0/24/default",
+        "comment": "J.Safra - 17 Andar - Desktop - J.Safra - 17 Andar - Desktop",
+        "network": "10.96.87.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODguMC8yNC8w:10.96.88.0/24/default",
+        "comment": "J.Safra - 18o Andar - Desktop - J.Safra - 18o Andar - Desktop",
+        "network": "10.96.88.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuODkuMC8yNC8w:10.96.89.0/24/default",
+        "comment": "J.S - 19 Andar - Desktop",
+        "network": "10.96.89.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuOTYuMC8yNC8w:10.96.96.0/24/default",
+        "comment": "BC - ACN-01 - Desktop",
+        "network": "10.96.96.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuOTcuMC8yNC8w:10.96.97.0/24/default",
+        "comment": "BC - ACN-02 - Desktop",
+        "network": "10.96.97.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTA0LjAvMjQvMA:10.96.104.0/24/default",
+        "comment": "BC - 2 Andar - Desktop  - BC - 2 Andar - Desktop",
+        "network": "10.96.104.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTA1LjAvMjQvMA:10.96.105.0/24/default",
+        "comment": "BC - 3 Andar - Desktop  - BC - 3 Andar - Desktop",
+        "network": "10.96.105.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTA2LjAvMjQvMA:10.96.106.0/24/default",
+        "comment": "BC - 4 Andar - Desktop",
+        "network": "10.96.106.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTA3LjAvMjQvMA:10.96.107.0/24/default",
+        "comment": "BC 4 Andar  - Desktop - BC 4 Andar  - Desktop",
+        "network": "10.96.107.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTA4LjAvMjQvMA:10.96.108.0/24/default",
+        "comment": "BC - 6 Andar - Desktop - BC - 6 Andar - Desktop",
+        "network": "10.96.108.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTA5LjAvMjQvMA:10.96.109.0/24/default",
+        "comment": "BC - 7 Andar_B - Desktop - BC - 7 Andar_B - Desktop",
+        "network": "10.96.109.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTEwLjAvMjQvMA:10.96.110.0/24/default",
+        "comment": "BC - 8 Andar - Desktop - BC - 8 Andar - Desktop",
+        "network": "10.96.110.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTExLjAvMjQvMA:10.96.111.0/24/default",
+        "comment": "BC - 9 Andar - Desktop - BC - 9 Andar - Desktop",
+        "network": "10.96.111.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTEyLjAvMjQvMA:10.96.112.0/24/default",
+        "comment": "BC - 10 Andar - Desktop - BC - 10 Andar - Desktop",
+        "network": "10.96.112.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTEzLjAvMjQvMA:10.96.113.0/24/default",
+        "comment": "BC - 11 Andar - Desktop - BC - 11 Andar - Desktop",
+        "network": "10.96.113.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTE0LjAvMjQvMA:10.96.114.0/24/default",
+        "comment": "BC - 12 Andar - Desktop - BC - 12 Andar - Desktop",
+        "network": "10.96.114.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTE1LjAvMjQvMA:10.96.115.0/24/default",
+        "comment": "BC - 14 Andar - Desktop - BC - 14 Andar - Desktop",
+        "network": "10.96.115.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTE2LjAvMjQvMA:10.96.116.0/24/default",
+        "comment": "BC - 14 Andar B - Desktop",
+        "network": "10.96.116.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQwLjAvMjQvMA:10.96.140.0/24/default",
+        "comment": "BC - 6 Andar_B - Desktop - BC - 6 Andar_B - Desktop",
+        "network": "10.96.140.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQxLjAvMjQvMA:10.96.141.0/24/default",
+        "comment": "BC - 7 Andar - Desktop",
+        "network": "10.96.141.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQyLjAvMjQvMA:10.96.142.0/24/default",
+        "comment": "BC - 8 Andar_B - Desktop - BC - 8 Andar_B - Desktop",
+        "network": "10.96.142.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQzLjAvMjQvMA:10.96.143.0/24/default",
+        "comment": "BC - 9 Andar_B - Desktop - BC - 9 Andar_B - Desktop",
+        "network": "10.96.143.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQ0LjAvMjQvMA:10.96.144.0/24/default",
+        "comment": "BC - 10 Andar_B - Desktop - BC - 10 Andar_B - Desktop",
+        "network": "10.96.144.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQ1LjAvMjQvMA:10.96.145.0/24/default",
+        "comment": "BC - 11 Andar_B - Desktop - BC - 11 Andar_B - Desktop",
+        "network": "10.96.145.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQ2LjAvMjQvMA:10.96.146.0/24/default",
+        "comment": "BC - 12 Andar_B - Desktop - BC - 12 Andar_B - Desktop",
+        "network": "10.96.146.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMTQ3LjAvMjQvMA:10.96.147.0/24/default",
+        "comment": "BC - 14 Andar B Desktop",
+        "network": "10.96.147.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTYuMjAwLjAvMjQvMA:10.96.200.0/24/default",
+        "comment": "BC - NOC  - Desktop",
+        "network": "10.96.200.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMS4wLzI0LzA:10.97.1.0/24/default",
+        "comment": "MT - 1 Andar - VOIP - MT - 1 Andar - VOIP",
+        "network": "10.97.1.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMi4wLzI0LzA:10.97.2.0/24/default",
+        "comment": "MT - 2 Andar - VOIP - MT - 2 Andar - VOIP",
+        "network": "10.97.2.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMy4wLzI0LzA:10.97.3.0/24/default",
+        "comment": "MT - 3 Andar - VOIP",
+        "network": "10.97.3.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNC4wLzI0LzA:10.97.4.0/24/default",
+        "comment": "MT - 4 Andar - VOIP - MT - 4 Andar - VOIP",
+        "network": "10.97.4.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNi4wLzI0LzA:10.97.6.0/24/default",
+        "comment": "MT - 6 Andar - VOIP - MT - 6 Andar - VOIP",
+        "network": "10.97.6.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNy4wLzI0LzA:10.97.7.0/24/default",
+        "comment": "MT - 7 Andar Torre Voip - Vlan de Voz 7 Andar",
+        "network": "10.97.7.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuOC4wLzI0LzA:10.97.8.0/24/default",
+        "comment": "MT  - 8 Andar - VOIP  - MT - 8 Andar - VOIP",
+        "network": "10.97.8.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuOS4wLzI0LzA:10.97.9.0/24/default",
+        "comment": "MT - 9 Andar - VOIP - MT - 9 Andar - VOIP",
+        "network": "10.97.9.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTAuMC8yNC8w:10.97.10.0/24/default",
+        "comment": "MT - 10 Andar - VOIP  - MT - 10 Andar - VOIP",
+        "network": "10.97.10.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTEuMC8yNC8w:10.97.11.0/24/default",
+        "comment": "MT - 15 Andar - Desktop - MT - 15 Andar - Desktop",
+        "network": "10.97.11.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTIuMC8yNC8w:10.97.12.0/24/default",
+        "comment": "MT - 12 Andar - VOIP - MT - 12 Andar - VOIP",
+        "network": "10.97.12.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQuMC8yNC8w:10.97.14.0/24/default",
+        "comment": "MT - 14 Andar - VOIP - Rede de Voz 14 Andar",
+        "network": "10.97.14.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTUuMC8yNC8w:10.97.15.0/24/default",
+        "comment": "MT - 15 Andar - VOIP - MT - 15 Andar - VOIP",
+        "network": "10.97.15.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTYuMC8yNC8w:10.97.16.0/24/default",
+        "comment": "MT - 16  Andar VOIP - MT - 16  Andar VOIP",
+        "network": "10.97.16.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTcuMC8yNC8w:10.97.17.0/24/default",
+        "comment": "MT - 17 Andar VOIP - MT - 17 Andar VOIP",
+        "network": "10.97.17.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTguMC8yNC8w:10.97.18.0/24/default",
+        "comment": "MT - 18 Andar - VOIP - MT - 18 Andar - VOIP",
+        "network": "10.97.18.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTkuMC8yNC8w:10.97.19.0/24/default",
+        "comment": "MT - 19  Andar - VOIP - Rede ThinClient 19 Andar",
+        "network": "10.97.19.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMjAuMC8yNC8w:10.97.20.0/24/default",
+        "comment": "MT - 20 Andar - VOIP  - MT - 20 Andar - VOIP",
+        "network": "10.97.20.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMjEuMC8yNC8w:10.97.21.0/24/default",
+        "comment": "MT - 21 Andar - VOIP - MT - 21 Andar - VOIP",
+        "network": "10.97.21.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMjIuMC8yNC8w:10.97.22.0/24/default",
+        "comment": "MT - 22 Andar - VOIP - MT - 22 Andar - ThinkClient",
+        "network": "10.97.22.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMjkuMC8yNC8w:10.97.29.0/24/default",
+        "comment": "Scope [10.97.29.0] MT - IPC-MT - Escopo de voz IPC Matriz",
+        "network": "10.97.29.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMzEuMC8yNC8w:10.97.31.0/24/default",
+        "comment": "MT - 1 Andar Pergolado - VOIP - MT - 1 Andar Pergolado - VOIP",
+        "network": "10.97.31.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMzIuMC8yNC8w:10.97.32.0/24/default",
+        "comment": "MT - 2 Andar Pergolado - VOIP - MT - 2 Andar Pergolado - VOIP",
+        "network": "10.97.32.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMzQuMC8yNC8w:10.97.34.0/24/default",
+        "comment": "MT - 4 Andar Pergolado - VOIP - MT - 4 Andar Pergolado - VOIP",
+        "network": "10.97.34.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMzYuMC8yNC8w:10.97.36.0/24/default",
+        "comment": "MT - 6 Andar Pergolado - VOIP - MT - 6 Andar Pergolado - VOIP",
+        "network": "10.97.36.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNDQuMC8yNC8w:10.97.44.0/24/default",
+        "comment": "MT - 4 ADM - Telefones",
+        "network": "10.97.44.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNDcuMC8yNC8w:10.97.47.0/24/default",
+        "comment": "MT - 7 Andar - Voip",
+        "network": "10.97.47.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNzIuMC8yNC8w:10.97.72.0/24/default",
+        "comment": "J. Safra - 2 Andar - VOIP - J. Safra - 2 Andar - VOIP",
+        "network": "10.97.72.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNzMuMC8yNC8w:10.97.73.0/24/default",
+        "comment": "J. Safra - 3 Andar - Voip - J. Safra - 3 Andar - Voip",
+        "network": "10.97.73.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNzQuMC8yNC8w:10.97.74.0/24/default",
+        "comment": "J. Safra - 4 Andar - Voip - J. Safra - 4 Andar - Voip",
+        "network": "10.97.74.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNzYuMC8yNC8w:10.97.76.0/24/default",
+        "comment": "J. Safra - 6 Andar -VOIP - Rede de Voz 6 Andar J Safra",
+        "network": "10.97.76.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNzcuMC8yNC8w:10.97.77.0/24/default",
+        "comment": "J. Safra - 7 Andar -VOIP",
+        "network": "10.97.77.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNzguMC8yNC8w:10.97.78.0/24/default",
+        "comment": "J. Safra - 8 Andar - VOIP - Rede de Voz 8 Andar J Safra",
+        "network": "10.97.78.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuNzkuMC8yNC8w:10.97.79.0/24/default",
+        "comment": "J. Safra - 9 Andar - Voip - J. Safra - 9 Andar - Voip",
+        "network": "10.97.79.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODAuMC8yNC8w:10.97.80.0/24/default",
+        "comment": "J.Safra - 10 Andar - VOIP  - J.Safra - 10 Andar - VOIP",
+        "network": "10.97.80.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODEuMC8yNC8w:10.97.81.0/24/default",
+        "comment": "J. Safra - 11 Andar - VOIP - Rede de Voz 11 Andar J Safra",
+        "network": "10.97.81.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODIuMC8yNC8w:10.97.82.0/24/default",
+        "comment": "J. Safra - 12 Andar - VOIP - Rede de Voz 12 Andar",
+        "network": "10.97.82.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODQuMC8yNC8w:10.97.84.0/24/default",
+        "comment": "J. Safra - 14 Andar - VOIP - Rede de Voz 14 Andar J Safra",
+        "network": "10.97.84.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODYuMC8yNC8w:10.97.86.0/24/default",
+        "comment": "J.Safra - 16 Andar - VOIP - J.Safra - 16 Andar - VOIP",
+        "network": "10.97.86.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODcuMC8yNC8w:10.97.87.0/24/default",
+        "comment": "J.Safra - 17 Andar - VOIP - J.Safra - 17 Andar - VOIP",
+        "network": "10.97.87.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODguMC8yNC8w:10.97.88.0/24/default",
+        "comment": "J. Safra - 18o Andar - VOIP - J. Safra - 18o Andar - VOIP",
+        "network": "10.97.88.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuODkuMC8yNC8w:10.97.89.0/24/default",
+        "comment": "J.Safra - 19 Andar - Voz - Rede de Voz J Safra",
+        "network": "10.97.89.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuOTYuMC8yNC8w:10.97.96.0/24/default",
+        "comment": "BC - ACN-01  - VOIP",
+        "network": "10.97.96.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuOTcuMC8yNC8w:10.97.97.0/24/default",
+        "comment": "BC - ACN-02  - VOIP",
+        "network": "10.97.97.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTA0LjAvMjQvMA:10.97.104.0/24/default",
+        "comment": "BC - 2 Andar  - VOIP - BC - 2 Andar -  VOIP",
+        "network": "10.97.104.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTA1LjAvMjQvMA:10.97.105.0/24/default",
+        "comment": "BC - 3 Andar - VOIP - BC - 3 Andar - VOIP",
+        "network": "10.97.105.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTA2LjAvMjQvMA:10.97.106.0/24/default",
+        "comment": "BC - 4 Andar  - VOIP",
+        "network": "10.97.106.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTA3LjAvMjQvMA:10.97.107.0/24/default",
+        "comment": "BC 4 Andar - VOIP - BC 4 Andar - VOIP",
+        "network": "10.97.107.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTA4LjAvMjQvMA:10.97.108.0/24/default",
+        "comment": "BC - 6 Andar - VOIP - BC - 6 Andar - VOIP",
+        "network": "10.97.108.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTA5LjAvMjQvMA:10.97.109.0/24/default",
+        "comment": "BC - 7 Andar_B - VoIP - BC - 7 Andar_B - VoIP",
+        "network": "10.97.109.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTEwLjAvMjQvMA:10.97.110.0/24/default",
+        "comment": "BC - 8 Andar - VoIP - BC - 8 Andar - VoIP",
+        "network": "10.97.110.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTExLjAvMjQvMA:10.97.111.0/24/default",
+        "comment": "BC - 9 Andar - VOIP - BC - 9 Andar - VOIP",
+        "network": "10.97.111.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTEyLjAvMjQvMA:10.97.112.0/24/default",
+        "comment": "BC - 10 Andar - VOIP - BC - 10 Andar - VOIP",
+        "network": "10.97.112.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTEzLjAvMjQvMA:10.97.113.0/24/default",
+        "comment": "BC - 11 Andar - VOIP - BC - 11 Andar - VOIP",
+        "network": "10.97.113.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTE0LjAvMjQvMA:10.97.114.0/24/default",
+        "comment": "BC - 12 Andar - VOIP - BC - 12 Andar - VOIP",
+        "network": "10.97.114.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTE1LjAvMjQvMA:10.97.115.0/24/default",
+        "comment": "BC - 14 Andar - VoIP - BC - 14 Andar - VoIP",
+        "network": "10.97.115.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTE2LjAvMjQvMA:10.97.116.0/24/default",
+        "comment": "BC - 14 Andar B - ToIP",
+        "network": "10.97.116.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQwLjAvMjQvMA:10.97.140.0/24/default",
+        "comment": "BC - 6 Andar_B - VoIP - BC - 6 Andar_B - VoIP",
+        "network": "10.97.140.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQxLjAvMjQvMA:10.97.141.0/24/default",
+        "comment": "BC - 7 Andar - VoIP",
+        "network": "10.97.141.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQyLjAvMjQvMA:10.97.142.0/24/default",
+        "comment": "BC - 8 Andar_B - VoIP - BC - 8 Andar_B - VoIP",
+        "network": "10.97.142.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQzLjAvMjQvMA:10.97.143.0/24/default",
+        "comment": "BC - 9 Andar_B - VoIP - BC - 9 Andar_B - VoIP",
+        "network": "10.97.143.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQ0LjAvMjQvMA:10.97.144.0/24/default",
+        "comment": "BC - 10 Andar_B - VoIP - BC - 10 Andar_B - VoIP",
+        "network": "10.97.144.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQ1LjAvMjQvMA:10.97.145.0/24/default",
+        "comment": "BC - 11 Andar_B - VoIP - BC - 11 Andar_B - VoIP",
+        "network": "10.97.145.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQ2LjAvMjQvMA:10.97.146.0/24/default",
+        "comment": "BC - 12 Andar_B - VOIP - BC - 12 Andar_B - VOIP",
+        "network": "10.97.146.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMTQ3LjAvMjQvMA:10.97.147.0/24/default",
+        "comment": "BC - 14 Andar B VOIP",
+        "network": "10.97.147.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTcuMjAwLjAvMjQvMA:10.97.200.0/24/default",
+        "comment": "BC - NOC  - VOIP",
+        "network": "10.97.200.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuOTguMzEuMC8yNC8w:10.98.31.0/24/default",
+        "comment": "MT - 1 Andar Pergolado - Thinkclient - MT - 1 Andar Pergolado - Thinkclient",
+        "network": "10.98.31.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTAuMi4wLjAvMjQvMA:10.2.0.0/24/default",
+        "network": "10.2.0.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTcyLjMxLjI1NC4wLzI0LzA:172.31.254.0/24/default",
+        "network": "172.31.254.0/24",
+        "network_view": "default"
+    },
+    {
+        "_ref": "network/ZG5zLm5ldHdvcmskMTkyLjE2OC4wLjAvMjQvMQ:192.168.0.0/24/NVTest",
+        "network": "192.168.0.0/24",
+        "network_view": "NVTest"
+    }
+]
