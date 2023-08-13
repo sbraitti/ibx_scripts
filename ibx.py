@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Main file - Start from here
+# Main file - Start from here ;)
 
 # Let's import all we need globaly 
 
