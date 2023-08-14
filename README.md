@@ -2,6 +2,7 @@
 
 Here I will share some scripts I made for Infoblox DDI and BloxOne
 
+<pre>
 usage: ibx.py [-h] [-v] --url API_URL --user API_USER --pass API_PASS [--test] [-1] [--logfile LOGFILE] [--debug]
 
 Infoblox Scripts by Stefan Braitti
@@ -25,3 +26,4 @@ Unmanaged to Managed:
 Log Options:
   --logfile LOGFILE     Log file name (Default: logfile.log)
   --debug               Log debug
+</pre>
