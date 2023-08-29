@@ -1,0 +1,19 @@
+header-hostaddress;address*;parent*;configure_for_dhcp;configure_for_dns;mac_address;network_view;use_for_ea_inheritance;
+header-hostrecord;fqdn*;addresses;configure_for_dns;_new_configure_for_dns;enable_immediate_discovery;network_view;use_snmpv3_credential;EA-VM ID;Comment
+hostrecord;172_31_254_7_-_CERT_SRV;172.31.254.7;False;;False;default;False;5028b01f-4ffc-939c-9ddf-451bf9bfe055;"Converted on 29/08/2023"
+hostaddress;172.31.254.7;172_31_254_7_-_CERT_SRV;False;False;00:50:56:a8:3e:a2;default;True;
+hostrecord;172_31_254_9_-_vCenter_Server;172.31.254.9;False;;False;default;False;502f4a08-b03b-a104-f695-af0c005b0685;"Converted on 29/08/2023"
+hostaddress;172.31.254.9;172_31_254_9_-_vCenter_Server;False;False;00:50:56:af:52:51;default;True;
+hostrecord;172_31_254_10_-_AD;172.31.254.10;False;;False;default;False;52f29904-126c-ac63-0d6b-ae2f4f4417c7;"Converted on 29/08/2023"
+hostaddress;172.31.254.10;172_31_254_10_-_AD;False;False;00:0c:29:f6:e6:b9;default;True;
+hostrecord;TMG_-_Intranet;172.31.254.78;False;;False;default;False;5028c3b0-4681-0f68-3968-d53ccdfe3f50;"Converted on 29/08/2023"
+hostaddress;172.31.254.78;TMG_-_Intranet;False;False;00:50:56:a8:25:5b;default;True;
+hostrecord;172_31_254_99_-_cisco-dna-spaces-connector;172.31.254.99;False;;False;default;False;502f8daa-f0e8-e90c-0a83-a892f15cf922;"Converted on 29/08/2023"
+hostaddress;172.31.254.99;172_31_254_99_-_cisco-dna-spaces-connector;False;False;00:50:56:af:07:bf;default;True;
+hostrecord;Bigip2_Wilson;172.31.254.241;False;;False;default;False;502893f4-6ae7-896c-8a09-13daf5025dfb;"Converted on 29/08/2023"
+hostaddress;172.31.254.241;Bigip2_Wilson;False;False;00:50:56:a8:1b:dc;default;True;
+hostrecord;Bigip1_Wilson;172.31.254.243;False;;False;default;False;50287d10-9a47-1762-ca4b-1defbd62bdd9;"Converted on 29/08/2023"
+hostaddress;172.31.254.243;Bigip1_Wilson;False;False;00:50:56:a8:6e:1a;default;True;
+hostrecord;Kali_3;172.31.254.250,172.31.254.251;False;;False;default;False;502f9648-1242-11c3-0fae-d914174b2ed9;"Converted on 29/08/2023"
+hostaddress;172.31.254.250;Kali_3;False;False;00:50:56:af:ec:fc;default;True;
+hostaddress;172.31.254.251;Kali_3;False;False;00:50:56:af:ec:fc;default;False;
